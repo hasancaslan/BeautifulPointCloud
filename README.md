@@ -2,11 +2,11 @@
 
 ![mitsuba rendering](mitsuba_rendering.png)
 
-With a simple command, you can transform your point cloud data into beautifully rendered 3D images.
+This Python script allows you to convert your point cloud data into beautifully rendered 3D images using Mitsuba.
 
-This XML file describes a 3D scene in the format used by the Mitsuba renderer. 
-The script then proceeds to render this scene and save the result as a PNG file. 
-If your data tensor contains multiple point clouds, the script will iterate over them and produce multiple renderings.
+- The script creates a XML file describes a 3D scene in the format used by the Mitsuba renderer. 
+- Then proceeds to render this scene and save the result as a PNG file. 
+- If your data tensor contains multiple point clouds, the script will iterate over them and produce multiple renderings.
 
 Currently, the script supports both `.ply` and `.npy` file formats.
 
