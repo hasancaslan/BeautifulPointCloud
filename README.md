@@ -28,8 +28,8 @@ pip install -r requirements.txt
 ```
 This will install the following Python packages:
 
-- **NumPy**:
-- **Plyfile**:
+- **NumPy**
+- **Plyfile**
 - **[Mitsuba 3](http://www.mitsuba-renderer.org)**
 
 Ensure you've set up all these dependencies correctly before running the script.
