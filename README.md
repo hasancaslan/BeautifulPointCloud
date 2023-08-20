@@ -18,19 +18,19 @@ If you have any enhancements or fixes, I encourage you to make a pull request.
 ## Dependencies
 
 ### Pre-requisites:
-- **Python**: Version 3.8 or newer. You can download it from the [official website](https://www.python.org/downloads/).
+- **Python**: Version 3.8 or newer.
 
 ### Installing Dependencies:
-All the Python dependencies required for this project are listed in the requirements.txt file. To install them, navigate to the directory containing requirements.txt and run:
+All the Python dependencies required for this project are listed in the requirements.txt file. To install them, run:
 
 ```bash
 pip install -r requirements.txt
 ```
 This will install the following Python packages:
 
-- **NumPy**: A fundamental package for scientific computing with Python.
-- **Plyfile**: A Python module for reading and writing PLY files.
-- **Mitsuba 3**: A research-oriented rendering system. The script is tailored for Mitsuba 3. For more details or troubleshooting, visit the [official Mitsuba website](http://www.mitsuba-renderer.org).
+- **NumPy**:
+- **Plyfile**:
+- **[Mitsuba 3](http://www.mitsuba-renderer.org)**
 
 Ensure you've set up all these dependencies correctly before running the script.
 
