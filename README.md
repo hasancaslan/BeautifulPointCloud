@@ -13,7 +13,7 @@ Currently, the script supports both `.ply` and `.npy` file formats.
 This project is inspired by the amazing work done at [Point Flow Renderer](https://github.com/zekunhao1995/PointFlowRenderer). 
 
 Everyone is welcome to use Point Cloud Renderer. 
-If you have any enhancements or fixes, I encourage you to share back by making a pull request.
+If you have any enhancements or fixes, I encourage you to make a pull request.
 
 ## Dependencies
 
