@@ -1,5 +1,7 @@
 # Point Flow Renderer 3
 
+![mitsuba rendering](mitsuba_rendering.png)
+
 With a simple command, you can transform your point cloud data into beautifully rendered 3D images.
 
 This XML file describes a 3D scene in the format used by the Mitsuba renderer. 
@@ -10,7 +12,7 @@ Currently, the script supports both `.ply` and `.npy` file formats.
 
 This project is inspired by the amazing work done at [Point Flow Renderer](https://github.com/zekunhao1995/PointFlowRenderer). 
 
-Everyone is welcome to use, modify, and distribute Point Flow Renderer 3. 
+Everyone is welcome to use Point Flow Renderer 3. 
 If you have any enhancements or fixes, I encourage you to share back by making a pull request.
 
 ## Dependencies
@@ -47,9 +49,3 @@ python point_flow_renderer.py chair.npy
 ```
 
 The output PNG file will be saved in the same directory as your input file.
-
-## Examples
-Here's a sample rendering:
-
-
-![mitsuba rendering](mitsuba_rendering.png)
