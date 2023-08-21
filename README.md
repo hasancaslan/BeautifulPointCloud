@@ -1,4 +1,4 @@
-# Point Cloud Renderer
+# Beautiful Point Cloud
 
 ![mitsuba rendering](mitsuba_rendering.png)
 
@@ -12,7 +12,7 @@ Currently, the script supports both `.ply` and `.npy` file formats.
 
 This project is inspired by the amazing work done at [Point Flow Renderer](https://github.com/zekunhao1995/PointFlowRenderer). 
 
-Everyone is welcome to use Point Cloud Renderer. 
+Everyone is welcome to use the project. 
 If you have any enhancements or fixes, I encourage you to make a pull request.
 
 ## Dependencies
